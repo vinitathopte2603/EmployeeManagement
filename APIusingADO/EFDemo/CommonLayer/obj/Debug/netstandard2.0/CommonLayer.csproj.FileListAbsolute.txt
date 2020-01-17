@@ -1,0 +1,7 @@
+D:\bridgelabz\APIusingADO\EFDemo\CommonLayer\bin\Debug\netstandard2.0\CommonLayer.deps.json
+D:\bridgelabz\APIusingADO\EFDemo\CommonLayer\bin\Debug\netstandard2.0\CommonLayer.dll
+D:\bridgelabz\APIusingADO\EFDemo\CommonLayer\bin\Debug\netstandard2.0\CommonLayer.pdb
+D:\bridgelabz\APIusingADO\EFDemo\CommonLayer\obj\Debug\netstandard2.0\CommonLayer.AssemblyInfoInputs.cache
+D:\bridgelabz\APIusingADO\EFDemo\CommonLayer\obj\Debug\netstandard2.0\CommonLayer.AssemblyInfo.cs
+D:\bridgelabz\APIusingADO\EFDemo\CommonLayer\obj\Debug\netstandard2.0\CommonLayer.dll
+D:\bridgelabz\APIusingADO\EFDemo\CommonLayer\obj\Debug\netstandard2.0\CommonLayer.pdb
